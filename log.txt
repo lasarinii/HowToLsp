@@ -1,0 +1,268 @@
+[howtolsp]2024/04/23 14:32:45 main.go:17: Started
+[howtolsp]2024/04/23 14:32:45 main.go:37: Got message with method: initialize
+[howtolsp]2024/04/23 14:32:45 main.go:46: Connected to: Neovim, 0.9.5
+[howtolsp]2024/04/23 14:32:45 main.go:51: Sent the reply
+[howtolsp]2024/04/23 14:32:46 main.go:37: Got message with method: initialized
+[howtolsp]2024/04/23 14:32:46 main.go:37: Got message with method: textDocument/didOpen
+[howtolsp]2024/04/23 14:32:46 main.go:60: Opened: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:32:49 main.go:37: Got message with method: textDocument/hover
+[howtolsp]2024/04/23 14:32:51 main.go:37: Got message with method: textDocument/hover
+[howtolsp]2024/04/23 14:32:53 main.go:37: Got message with method: textDocument/definition
+[howtolsp]2024/04/23 14:32:54 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:32:54 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:32:54 main.go:37: Got message with method: textDocument/didSave
+[howtolsp]2024/04/23 14:32:57 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:32:57 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:32:57 main.go:37: Got message with method: textDocument/completion
+[howtolsp]2024/04/23 14:32:57 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:32:57 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:32:58 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:32:58 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:32:58 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:32:58 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:32:58 main.go:37: Got message with method: textDocument/completion
+[howtolsp]2024/04/23 14:32:58 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:32:58 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:32:59 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:32:59 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:32:59 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:32:59 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:32:59 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:32:59 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:00 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:00 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:00 main.go:37: Got message with method: textDocument/completion
+[howtolsp]2024/04/23 14:33:00 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:00 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:00 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:00 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:01 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:01 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:01 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:01 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:01 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:01 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:01 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:01 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:01 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:01 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:01 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:01 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:02 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:02 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:02 main.go:37: Got message with method: textDocument/didSave
+[howtolsp]2024/04/23 14:33:04 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:04 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:06 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:06 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:06 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:06 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:06 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:06 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:06 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:06 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:07 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:07 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:07 main.go:37: Got message with method: textDocument/completion
+[howtolsp]2024/04/23 14:33:07 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:07 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:07 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:07 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:08 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:08 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:08 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:08 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:09 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:09 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:09 main.go:37: Got message with method: textDocument/completion
+[howtolsp]2024/04/23 14:33:09 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:09 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:09 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:09 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:09 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:09 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:13 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:13 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:14 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:14 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:14 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:14 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:14 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:14 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:18 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:18 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:19 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:19 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:20 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:20 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:20 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:20 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:20 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:20 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:21 main.go:37: Got message with method: textDocument/didSave
+[howtolsp]2024/04/23 14:33:24 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:24 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:24 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:24 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:26 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:26 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:26 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:26 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:27 main.go:37: Got message with method: textDocument/didSave
+[howtolsp]2024/04/23 14:33:28 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:28 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:28 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:28 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:29 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:29 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:30 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:30 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:31 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:31 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:31 main.go:37: Got message with method: textDocument/completion
+[howtolsp]2024/04/23 14:33:31 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:31 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:31 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:31 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:32 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:32 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:32 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:32 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:32 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:32 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:32 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:32 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:32 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:32 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:33 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:33 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:33 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:33 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:33 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:33 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:33 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:33 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:34 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:34 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:35 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:35 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:35 main.go:37: Got message with method: textDocument/completion
+[howtolsp]2024/04/23 14:33:35 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:35 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:35 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:35 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:36 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:36 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:36 main.go:37: Got message with method: textDocument/completion
+[howtolsp]2024/04/23 14:33:36 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:36 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:36 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:36 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:36 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:36 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:36 main.go:37: Got message with method: textDocument/completion
+[howtolsp]2024/04/23 14:33:36 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:36 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:36 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:36 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:37 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:37 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:39 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:39 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:39 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:39 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:39 main.go:37: Got message with method: textDocument/completion
+[howtolsp]2024/04/23 14:33:39 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:39 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:39 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:39 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:40 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:40 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:40 main.go:37: Got message with method: textDocument/completion
+[howtolsp]2024/04/23 14:33:40 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:40 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:40 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:40 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:40 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:40 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:41 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:41 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:41 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:41 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:41 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:41 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:41 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:41 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:41 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:41 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:42 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:42 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:42 main.go:37: Got message with method: textDocument/completion
+[howtolsp]2024/04/23 14:33:42 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:42 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:42 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:42 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:43 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:43 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:43 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:43 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:43 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:43 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:43 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:43 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:43 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:43 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:44 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:44 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:44 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:44 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:44 main.go:37: Got message with method: textDocument/completion
+[howtolsp]2024/04/23 14:33:44 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:44 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:45 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:45 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:45 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:45 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:45 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:45 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:45 main.go:37: Got message with method: textDocument/completion
+[howtolsp]2024/04/23 14:33:46 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:46 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:46 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:46 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:47 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:47 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:47 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:47 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:47 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:47 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:47 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:47 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:47 main.go:37: Got message with method: textDocument/completion
+[howtolsp]2024/04/23 14:33:48 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:48 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:48 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:48 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:49 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:49 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:49 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:49 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:49 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:49 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:49 main.go:37: Got message with method: textDocument/completion
+[howtolsp]2024/04/23 14:33:49 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:49 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:50 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:50 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:50 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:50 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:51 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:51 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:52 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:52 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:53 main.go:37: Got message with method: textDocument/didChange
+[howtolsp]2024/04/23 14:33:53 main.go:80: Changed: file:///home/euzinho/Coding/howtolsp/README.md
+[howtolsp]2024/04/23 14:33:54 main.go:37: Got message with method: textDocument/didSave
+[howtolsp]2024/04/23 14:33:55 main.go:37: Got message with method: textDocument/didSave
+[howtolsp]2024/04/23 14:33:57 main.go:37: Got message with method: textDocument/didSave
+[howtolsp]2024/04/23 14:33:57 main.go:37: Got message with method: shutdown
