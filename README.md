@@ -14,4 +14,4 @@ Suggestions? NeoVim (BTW)
 
 # Description
 
-It is just me learning 'how LSPs works'.
+It is just me learning 'how LSPs works'. -> [DID WITH TJ ON YOUTUBE](https://youtu.be/YsdlcQoHqPY?si=0GGXSvRzvyj83BRQ) <-
